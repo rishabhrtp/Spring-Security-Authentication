@@ -66,3 +66,12 @@ src
         │   └── dashboard.html
         │
         └── application.properties
+
+
+Database
+
+Create a MySQL database:
+
+CREATE DATABASE springsecuritydb;
+
+The users table is automatically created/updated by Hibernate.
